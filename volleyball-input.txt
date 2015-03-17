@@ -1,0 +1,9 @@
+Stats
+Players: 7
+Henry 1 M 75
+Luigi 1 S 85
+Tyler 2 O S 55
+Jacob 1 M 70
+Nick 2 M S 75
+Alex 1 O 70
+Brent 1 O 65
